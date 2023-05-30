@@ -1,7 +1,7 @@
 # EN-US
 
 ### What is this repository for?
-A: To show on Discord, what are you doing on the boosteroid website (cloud game)
+A: To show on Discord, what are you doing on the boosteroid website (cloud gaming)
 
 ### Installation
 - Download the zip file: (Here)[https://github.com/Shironep/Boosteroid/raw/main/boosteroid.zip]
