@@ -4,7 +4,7 @@
 A: To show on Discord, what are you doing on the boosteroid website (cloud gaming)
 
 ### Installation
-- Download the zip file: (Here)[https://github.com/Shironep/Boosteroid/raw/main/boosteroid.zip]
+- Download the zip file: [Here](https://github.com/Shironep/Boosteroid/raw/main/boosteroid.zip)
 - Extract it anywhere as you like
 - Open the chrome browser, and go to: chrome://extensions
 - Enable "Developer Mode" option
@@ -21,7 +21,7 @@ A: To show on Discord, what are you doing on the boosteroid website (cloud gamin
 R: Para mostrar no Discord, oque você está fazendo no site da boosteroid (Jogo em cloud)
 
 ### Instalação
-- Baixe o arquivo zip: (Aqui)[https://github.com/Shironep/Boosteroid/raw/main/boosteroid.zip]
+- Baixe o arquivo zip: [Aqui](https://github.com/Shironep/Boosteroid/raw/main/boosteroid.zip)
 - Extraia em qualquer lugar dos seus arquivos que você desejar
 - Abra o navegador chrome, e va em: chrome://extensions
 - Ative a opção "Modo do desenvolvedor"
