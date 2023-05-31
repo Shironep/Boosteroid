@@ -1,132 +1,3147 @@
 {
-  "951": {
-    "name": "Fall Guys: Ultimate Knockout",
-    "platform": "Epic",
-    "icon": "https://i.imgur.com/9on86FX.png"
+  "2": {
+    "name": "World of Tanks (EU)",
+    "platform": "Wargaming.net",
+    "icon": "https://cdn.saith.dev/a2ca45eb5e2ff3a6a3d0753370c552f7.jpg"
   },
-  "851": {
-    "name": "Inscryption",
-    "platform": "Steam",
-    "icon": "https://i.imgur.com/Us4MoEx.jpg"
-	},
-  "1004": {
-    "name": "Stray",
-    "platform": "Steam",
-    "icon": "https://i.imgur.com/WoKlDIx.png"
+  "20": {
+    "name": "World of Warplanes",
+    "platform": "Wargaming.net",
+    "icon": "https://cdn.saith.dev/world_of_warplanes_SQdASrc.jpg"
   },
-  "990": {
-    "name": "Stardew Valley",
-    "platform": "Steam",
-    "icon": "https://i.imgur.com/wener02.png"
+  "21": {
+    "name": "World of Warships",
+    "platform": "Wargaming.net",
+    "icon": "https://cdn.saith.dev/world_of_warships_AKarFUz.jpg"
   },
   "23": {
     "name": "Fortnite",
-    "platform": "Epic",
-    "icon": "https://i.imgur.com/7k0dzCN.png"
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/057150feea478a0ccaa6e9f04d58dd9f.jpg"
   },
-  "221": {
-    "name": "Grand Theft Auto V",
-    "platform": "Rockstar Launcher",
-    "icon": "https://i.imgur.com/OEsnA7A.png"
-  },
-  "57": {
-    "name": "Grand Theft Auto V",
+  "26": {
+    "name": "Mortal Kombat: Komplete Edition",
     "platform": "Steam",
-    "icon": "https://i.imgur.com/OEsnA7A.png"
+    "icon": "https://cdn.saith.dev/mortal_kombat_CGuLx6O.jpg"
   },
-  "299": {
-    "name": "Grand Theft Auto V",
-    "platform": "Epic",
-    "icon": "https://i.imgur.com/OEsnA7A.png"
-  },
-  "726": {
-    "name": "Red Dead Redemption 2",
+  "28": {
+    "name": "The Witcher 3: Wild Hunt",
     "platform": "Steam",
-    "icon": "https://i.imgur.com/LoVvglH.png"
+    "icon": "https://cdn.saith.dev/witcher3_EDgk3Xh.jpg"
   },
-  "681": {
-    "name": "Red Dead Redemption 2",
-    "platform": "Epic",
-    "icon": "https://i.imgur.com/LoVvglH.png"
-  },
-  "235": {
-    "name": "Red Dead Redemption 2",
-    "platform": "Rockstar Launcher",
-    "icon": "https://i.imgur.com/LoVvglH.png"
-  },
-  "705": {
-    "name": "Red Dead Online",
+  "30": {
+    "name": "PlayerUnknown’s Battlegrounds - PUBG",
     "platform": "Steam",
-    "icon": "https://i.imgur.com/LoVvglH.png"
+    "icon": "https://cdn.saith.dev/PUBG_AJbih5l.jpg"
   },
-  "1141": {
-    "name": "Death Stranding: Director's Cut",
-    "platform": "Epic",
-    "icon": "https://i.imgur.com/YKNuIev.png"
+  "31": {
+    "name": "League of Legends",
+    "platform": "Riot Games",
+    "icon": "https://cdn.saith.dev/8b91e3913821e54688bab7f18b53fcb0.png"
   },
-  "111": {
-    "name": "Destiny 2",
+  "33": {
+    "name": "Path of Exile",
     "platform": "Steam",
-    "icon": "https://i.imgur.com/fwFlqIT.png"
+    "icon": "https://cdn.saith.dev/456a5539b83a772796e4329f205e7e93.jpg"
   },
-  "175": {
-    "name": "Payday 2",
+  "42": {
+    "name": "Resident Evil 7 Biohazard",
     "platform": "Steam",
-    "icon": "https://i.imgur.com/wZzHYZl.png"
+    "icon": "https://cdn.saith.dev/resident_evil.jpg"
   },
-  "383": {
-    "name": "Don't Starve Together",
+  "43": {
+    "name": "Call of Duty: Black Ops 4",
+    "platform": "Battle.net",
+    "icon": "https://cdn.saith.dev/call_of_duty_black_ops_4_wWTZ0aA.jpg"
+  },
+  "45": {
+    "name": "Metro: Last Light",
     "platform": "Steam",
-    "icon": "https://i.imgur.com/qHpIwAM.png"
+    "icon": "https://cdn.saith.dev/metro_last_light_Gt5DIZk.jpg"
   },
-  "808": {
-    "name": "Nioh: The Complete Edition",
-    "platform": "Epic",
-    "icon": "https://i.imgur.com/kG4LWeI.png"
-  },
-  "1052": {
-    "name": "Portal 2",
+  "47": {
+    "name": "Black Mesa",
     "platform": "Steam",
-    "icon": "https://i.imgur.com/ObXrUi8.png"
+    "icon": "https://cdn.saith.dev/black_mesa_pNIFf3P.jpg"
   },
-  "182": {
-    "name": "Left 4 Dead 2",
-    "platform": "Steam",
-    "icon": "https://i.imgur.com/edUWTJQ.png"
+  "50": {
+    "name": "Hearthstone",
+    "platform": "Battle.net",
+    "icon": "https://cdn.saith.dev/hearthstone_6y0CtDL.jpg"
   },
-  "690": {
-    "name": "Alien Isolation",
-    "platform": "Epic",
-    "icon": "https://i.imgur.com/eJ6ie3F.png"
-  },
-  "836": {
-    "name": "eFootball™ 2023",
-    "platform": "Steam",
-    "icon": "https://i.imgur.com/j8YVdRr.png"
-  },
-  "952": {
-    "name": "Raft",
-    "platform": "Steam",
-    "icon": "https://i.imgur.com/xs0nLcO.png"
-  },
-  "1028": {
-    "name": "Sleeping Dogs: Definitive Edition",
-    "platform": "Steam",
-    "icon": "https://i.imgur.com/AVNkKS2.png"
-  },
-  "220": {
-    "name": "Euro Truck Simulator 2",
-    "platform": "Steam",
-    "icon": "https://i.imgur.com/E0SSdTg.png"
-  },
-  "668": {
-    "name": "The Forest",
-    "platform": "Steam",
-    "icon": "https://i.imgur.com/OBas4vd.png"
+  "51": {
+    "name": "Heroes of the Storm",
+    "platform": "Battle.net",
+    "icon": "https://cdn.saith.dev/heroes_of_the_storm_eMRwiOp.jpg"
   },
   "54": {
     "name": "Counter-Strike: Global Offensive",
     "platform": "Steam",
-    "icon": "https://i.imgur.com/KrAZz1h.jpg"
+    "icon": "https://cdn.saith.dev/cs_go_DBIj50j.jpg"
+  },
+  "55": {
+    "name": "Dota 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/dota2_YN4caHr.jpg"
+  },
+  "57": {
+    "name": "Grand Theft Auto 5 - GTA V",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/GTA5_eWHqyL1.jpg"
+  },
+  "58": {
+    "name": "Assassin's Creed Odyssey",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/icon_assassin_s_creed_odyssey.jpg"
+  },
+  "67": {
+    "name": "Devil May Cry 5",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/devilmaycry_oYoWopu.jpg"
+  },
+  "70": {
+    "name": "Metro Exodus",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/f60507d2-2f6a-4dca-a9f9-f06a0cdb4dfe.jpg"
+  },
+  "78": {
+    "name": "Shadow of the Tomb Raider",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/Shadow_of_the_Tomb_Raider_EKGHE1I.jpg"
+  },
+  "91": {
+    "name": "BioShock Infinite",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/Bioshock_Infinit_51535d1831176_tQ6SEfx.jpg"
+  },
+  "93": {
+    "name": "DiRT 4",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/dirt4_4xgm6dh.jpg"
+  },
+  "96": {
+    "name": "Far Cry: New Dawn",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/Far_Cry_New_Dawn_Key_Art_6NNh3DD.jpg"
+  },
+  "100": {
+    "name": "Overwatch 2",
+    "platform": "Battle.net",
+    "icon": "https://cdn.saith.dev/d7180f1e802d0c3edb5a363939566ffe.jpg"
+  },
+  "102": {
+    "name": "Resident Evil 2 / Biohazard 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/re2_NxEcb5g.jpg"
+  },
+  "104": {
+    "name": "Rise of the Tomb Raider",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/app11151-6323-4fac-84c8-4e55d8dcf0b7_O25SwXV.jpg"
+  },
+  "106": {
+    "name": "StarCraft II",
+    "platform": "Battle.net",
+    "icon": "https://cdn.saith.dev/aw5pthntnboen1dxg4ls_4fo2USR.jpg"
+  },
+  "107": {
+    "name": "Team Fortress 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/boxart_L4l6kTe.jpg"
+  },
+  "108": {
+    "name": "Tekken 7",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/Tekken_7_LJG449I.jpg"
+  },
+  "109": {
+    "name": "Tom Clancy's The Division",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/tom_clancy_s_the_division_f9Djbod.jpg"
+  },
+  "110": {
+    "name": "ArmA 3",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/Arma-3-cover_1024x1024_MUSeG0D.jpg"
+  },
+  "111": {
+    "name": "Destiny 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/37a826015613cb8daed56ad7fb61b8c0.jpg"
+  },
+  "115": {
+    "name": "Apex Legends",
+    "platform": "10",
+    "icon": "https://cdn.saith.dev/2274013.jpg"
+  },
+  "116": {
+    "name": "World of Warcraft",
+    "platform": "Battle.net",
+    "icon": "https://cdn.saith.dev/e234a2624d1d342042324c21927fcdcd.png"
+  },
+  "118": {
+    "name": "Metro 2033 Redux",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/metro2033_YhFrC1p.jpg"
+  },
+  "121": {
+    "name": "Mortal Kombat 11",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/135373d2-5a55-4a6e-9413-0a96d79518df.jpg"
+  },
+  "122": {
+    "name": "Batman: Arkham Asylum Game of the Year Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0bafce93-11e1-4563-8487-792ac4a661c8.jpg"
+  },
+  "123": {
+    "name": "Batman: Arkham City - Game of the Year Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/954f361d-8b9c-4875-ad88-8d1e4ec644aa.jpg"
+  },
+  "124": {
+    "name": "Batman™: Arkham Origins",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/759d5c8a-6518-42e7-988b-eac7adb02aae.jpg"
+  },
+  "125": {
+    "name": "Batman™: Arkham Knight",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/4a6d4064-4fae-4207-b88c-6bebc312bbb7.jpg"
+  },
+  "126": {
+    "name": "Borderlands 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/b96c4b36-39f2-4716-8311-d9136b4f5b9c.jpg"
+  },
+  "129": {
+    "name": "DARK SOULS™: REMASTERED",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/55af7989-d60f-4abe-bdd8-d4ba9ac1c528.jpg"
+  },
+  "131": {
+    "name": "DARK SOULS™ III",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/1dabda81-ca58-4209-923f-4b5faa7f1f01.jpg"
+  },
+  "136": {
+    "name": "Deus Ex: Human Revolution - Director's Cut",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c910e3bf-4bcb-4a23-a5b5-98605c7b7acc.jpg"
+  },
+  "137": {
+    "name": "Deus Ex: Mankind Divided",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/d728feb0-6051-4dc2-8ff5-3cf94c6e5f2f.jpg"
+  },
+  "141": {
+    "name": "Divinity: Original Sin - Enhanced Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/114451ae-e529-4bcb-a556-b3638e17e8fe.jpg"
+  },
+  "142": {
+    "name": "Divinity: Original Sin 2 - Definitive Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a6e3dc7f-34a1-4ccb-868e-14d81640e628.jpg"
+  },
+  "143": {
+    "name": "FINAL FANTASY X/X-2 HD Remaster",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/66f2133c-c829-4b71-929d-f07dc1bc44d2.jpg"
+  },
+  "148": {
+    "name": "Kingdom Come: Deliverance",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/053adb74-2cc7-478e-8d3e-0c829ab44ab4.jpg"
+  },
+  "150": {
+    "name": "MONSTER HUNTER: WORLD",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/8130c857-d220-4a0a-a773-bd9e6153d839.jpg"
+  },
+  "154": {
+    "name": "Sekiro™: Shadows Die Twice",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/4551ae0c-2f02-4a49-b2e3-f4b97eff2451.jpg"
+  },
+  "161": {
+    "name": "The Witcher: Enhanced Edition Director's Cut",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/bde8174c-e532-4484-b767-7877c2dc16d3.jpg"
+  },
+  "162": {
+    "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/840895d0-7247-4484-b621-88e316f659d0.jpg"
+  },
+  "163": {
+    "name": "Chivalry: Medieval Warfare",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/949288c0-e75b-4257-a802-611b9fb1f5b2.jpg"
+  },
+  "165": {
+    "name": "Paladins",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3ea4e55c-f1d8-4962-8e9e-09f89218efb9.jpg"
+  },
+  "174": {
+    "name": "ARK: Survival Evolved",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/8f8ea595-04ff-45a4-85a9-db645da787c3.jpg"
+  },
+  "175": {
+    "name": "PAYDAY 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/bc0bb815-db45-4994-b825-02bd7daa0252.jpg"
+  },
+  "176": {
+    "name": "Cossacks 3",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/9a6a6085-04d7-4245-a770-0a8a474c2c60.jpg"
+  },
+  "180": {
+    "name": "Dying Light",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ae96e724-472f-48ca-b1f2-74f5c443cba2.jpg"
+  },
+  "182": {
+    "name": "Left 4 Dead 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/fa37360a-5428-4e3d-b20e-076a69c337dc.jpg"
+  },
+  "186": {
+    "name": "Dota Underlords",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/22434569-08be-415f-b489-6dcb6f4de46a.jpg"
+  },
+  "190": {
+    "name": "Age of Wonders: Planetfall",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/06055d43-10f6-409a-8aca-a857d6a53c17.jpg"
+  },
+  "192": {
+    "name": "HITMAN™ 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/79fb005b-cedd-4cb2-b536-c89cd46bdacd.jpg"
+  },
+  "193": {
+    "name": "NieR:Automata™",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/1a007dac-a6d1-4263-8d92-cf7f28457e0b.jpg"
+  },
+  "195": {
+    "name": "Pathfinder: Kingmaker - Enhanced Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3179e637-cb59-4724-8988-2738060272c8.jpg"
+  },
+  "196": {
+    "name": "A Plague Tale: Innocence",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/97a0f785-91fe-4636-9b0c-03729225c08a.jpg"
+  },
+  "197": {
+    "name": "Sid Meier’s Civilization® VI",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/db823ace-6a5b-4ec0-830f-af73f3d3e3c9.jpg"
+  },
+  "199": {
+    "name": "DiRT Rally",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f99946ce-01b7-4893-84cf-d975b0a58177.jpg"
+  },
+  "200": {
+    "name": "DiRT Rally 2.0",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/6d7d4bf5-0315-48b0-b3fc-36aef070d8d8.jpg"
+  },
+  "201": {
+    "name": "Assassin's Creed® Brotherhood",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/01f376e8-7cdd-4050-bd28-6be71acdb707.jpg"
+  },
+  "205": {
+    "name": "MORDHAU",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/8f202f47c84652a1306f973828a9b6f2.jpg"
+  },
+  "207": {
+    "name": "SMITE®",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e6fe2ece-2239-4152-99a0-baa082fad753.jpg"
+  },
+  "209": {
+    "name": "World of Tanks (NA)",
+    "platform": "Wargaming.net",
+    "icon": "https://cdn.saith.dev/f0bf93a5aaa36f7f8e966cba47b53963.jpg"
+  },
+  "210": {
+    "name": "Control",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/25193417-3f23-42ed-85db-c574b934394f.jpg"
+  },
+  "214": {
+    "name": "Borderlands 3",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/bcc1569f-a373-404d-b545-269646e768f0.jpg"
+  },
+  "215": {
+    "name": "Rust",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/6c8806100579504ac53d93960038e4de.jpg"
+  },
+  "218": {
+    "name": "Code Vein",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/fa1e6f9c-5d7e-4c17-9b0e-56da29f7e7d2.jpg"
+  },
+  "219": {
+    "name": "Dead by Daylight",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/8aa48ef1-2033-4a95-b590-60aefa46efce.jpg"
+  },
+  "220": {
+    "name": "Euro Truck Simulator 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/6efde982-7d98-47a4-9b93-d62a930887a6.jpg"
+  },
+  "221": {
+    "name": "Grand Theft Auto 5 - GTA V",
+    "platform": "Rockstar Games",
+    "icon": "https://cdn.saith.dev/ee725830-7867-4311-86d5-4049937c2836.jpg"
+  },
+  "227": {
+    "name": "Diablo III",
+    "platform": "Battle.net",
+    "icon": "https://cdn.saith.dev/a345337d-68cb-4eef-8b84-24033fbb3991.jpg"
+  },
+  "228": {
+    "name": "Starcraft Remastered",
+    "platform": "Battle.net",
+    "icon": "https://cdn.saith.dev/54443050-c504-4ead-a852-8f84e97a931c.jpg"
+  },
+  "230": {
+    "name": "Trine 4: The Nightmare Prince",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/1ed4026b46fad031645d2d5a8305ee4f.jpg"
+  },
+  "235": {
+    "name": "Red Dead Redemption 2",
+    "platform": "Rockstar Games",
+    "icon": "https://cdn.saith.dev/f11691ce320062b629cee962030c383a.png"
+  },
+  "236": {
+    "name": "Blasphemous",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/2467d640-17b2-4e84-9378-c256a4ab5e95.jpg"
+  },
+  "237": {
+    "name": "Shadow of the Tomb Raider Trial",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e1f421293392bb708571829f1561fd19.jpg"
+  },
+  "239": {
+    "name": "American Truck Simulator Demo",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/9dcec347e61a5e7582a317854d277184.jpg"
+  },
+  "245": {
+    "name": "Brawlhalla",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/183214ac-dc37-4650-b831-ee75e9aac1c3.jpg"
+  },
+  "246": {
+    "name": "Crusader Kings II",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/8aaac8b6-1654-407c-83ac-b3d3e52837bc.jpg"
+  },
+  "248": {
+    "name": "Star Trek Online",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/71a73d8f-4210-46db-b380-827ddeff0f98.jpg"
+  },
+  "250": {
+    "name": "PlanetSide 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/14bbfffd-04a5-48ff-b810-14d7a6a0cd55.jpg"
+  },
+  "251": {
+    "name": "Black Squad",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/6c059f87-efa0-4a53-8fe4-85a872fe1e8e.jpg"
+  },
+  "253": {
+    "name": "Robocraft",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a0b81f14-a89f-47e8-8199-062adb4ed460.jpg"
+  },
+  "256": {
+    "name": "Dead Frontier 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c39d42b3-73be-4d10-83ea-aefd22834de2.jpg"
+  },
+  "257": {
+    "name": "Prominence Poker",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ebf52127-daa7-4040-b7ca-38145e54dac9.jpg"
+  },
+  "259": {
+    "name": "World of Tanks Blitz",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/486e5a3a-7db4-4e79-b15a-24bfd2548663.jpg"
+  },
+  "260": {
+    "name": "theHunter",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/666658ec57c56e1c92b7626dce203b40.jpg"
+  },
+  "262": {
+    "name": "Mutant Year Zero Road to Eden Demo",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a49fff6833feefe27e053ce8de0239d7.jpg"
+  },
+  "264": {
+    "name": "Factorio Demo",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e90ae30c9157d8a632717bc5224cd5fd.jpg"
+  },
+  "265": {
+    "name": "Daymare 1998 Demo",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/55f1689bd1580f8065d1bae9b1654cdb.jpg"
+  },
+  "266": {
+    "name": "Football Manager 2020 Demo",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/32a0bbd5b3d55cb604738fe7a3f3ddda.jpg"
+  },
+  "268": {
+    "name": "Journey of Greed Demo",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/18cbf0cdbbae5990c1490f876b68c0fb.jpg"
+  },
+  "269": {
+    "name": "Heave Ho Demo",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/53b3c1026764de1573687124b257fa9c.jpg"
+  },
+  "273": {
+    "name": "PLAYCRAFT",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c32cdc00-785e-4198-a016-7e2c6c1f9406.jpg"
+  },
+  "274": {
+    "name": "They Can't Stop All Of Us",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/7db5f64f36bf756d502b85eefe43197f.jpg"
+  },
+  "276": {
+    "name": "Mythgard",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3d4e1ebf-9175-46b2-ba79-0efaa65e55d4.jpg"
+  },
+  "277": {
+    "name": "Star Wars Jedi: Fallen Order (Deluxe Only)",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/73a1bfc0-6d1d-4366-94a6-98ddcfcc1f1c.jpg"
+  },
+  "280": {
+    "name": "Farming Simulator 19",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/226b4db8-e617-4aad-a08a-226eaa0a0740.jpg"
+  },
+  "285": {
+    "name": "Wolcen",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/38afd5684515a724b2be7f7c055c9f2b.jpg"
+  },
+  "286": {
+    "name": "CoD Modern Warfare + Warzone",
+    "platform": "Battle.net",
+    "icon": "https://cdn.saith.dev/6fd5e84db39313ff1a4c496f1a8b4ce7.jpg"
+  },
+  "288": {
+    "name": "RESIDENT EVIL 3",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/39641ec3a92cbfaf420b882e7799bf72.jpg"
+  },
+  "290": {
+    "name": "Crossout",
+    "platform": "Gaijin",
+    "icon": "https://cdn.saith.dev/38a724786ea90858adf04386ad5800e3.jpg"
+  },
+  "291": {
+    "name": "War Thunder",
+    "platform": "Gaijin",
+    "icon": "https://cdn.saith.dev/303725367c028cf2a446d66a1881a47a.jpg"
+  },
+  "292": {
+    "name": "Mount & Blade II Bannerlord",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/62243a0922307861da1388bb4cb48bae.jpg"
+  },
+  "296": {
+    "name": "Just Cause 4",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/cae014530776f24faab903662bd90e67.jpg"
+  },
+  "297": {
+    "name": "Streets of Rage 4",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/df37587645df0947c08a0340c3a46071.jpg"
+  },
+  "298": {
+    "name": "World War Z",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/1b2a33687cacec790a0f54845bd9e3e6.jpg"
+  },
+  "299": {
+    "name": "Grand Theft Auto 5 - GTA V",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/fbe37b4f39d33c311a94863738c01723.jpg"
+  },
+  "300": {
+    "name": "Need For Speed Heat",
+    "platform": "10",
+    "icon": "https://cdn.saith.dev/46ac7a99d91910cbd69b86d43eb9c66a.jpg"
+  },
+  "304": {
+    "name": "Total War: WARHAMMER II",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/d0651316b00c43dd793663b5354f1966.jpg"
+  },
+  "306": {
+    "name": "Steep",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ef540045ba3fe55d5d76f31342e83a75.jpg"
+  },
+  "308": {
+    "name": "Street Fighter  V",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/7ca676df8bafa36e76291a688e16c8ed.jpg"
+  },
+  "309": {
+    "name": "Killing Floor 2",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/2815eacbc40914965fc278aee85a9ed0.jpg"
+  },
+  "311": {
+    "name": "Torchlight 2",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/04e8ddaadc28bbe3af0edb4507ad6508.jpg"
+  },
+  "312": {
+    "name": "NBA 2K20",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/8d74c9cc3915283b3dadc9109d831788.jpg"
+  },
+  "313": {
+    "name": "Star Wars: The Old Republic",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/cc5f49ea8406642d9aeafb15c7e25548.jpg"
+  },
+  "314": {
+    "name": "Carrion",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/6272a1079b905f8e7995208b39206dff.jpg"
+  },
+  "315": {
+    "name": "Horizon Zero Dawn",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/1f4ccceeb781ede3b9260922f6fa5983.jpg"
+  },
+  "316": {
+    "name": "Fall Guys",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c34853497c149eb921c12c818d6acb32.jpg"
+  },
+  "317": {
+    "name": "Total War: Saga TROY",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/f08e295610f52fad4cb67010db0d91aa.jpg"
+  },
+  "320": {
+    "name": "HITMAN",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/95d2855ad77fee05064d965bb813c563.jpg"
+  },
+  "321": {
+    "name": "Wasteland 3",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c2844e8a2afed6baf2ccaeec52233307.jpg"
+  },
+  "322": {
+    "name": "Marvels Avengers",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3ca081f600b1065b7a75125887cf082b.jpg"
+  },
+  "323": {
+    "name": "Crusader Kings III",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/225da1c2b1c09f45fdc24a1c44cfa10c.jpg"
+  },
+  "326": {
+    "name": "Among Us",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/801803d41c90a139cbe2f69c7f50a26a.jpg"
+  },
+  "328": {
+    "name": "Rocket League",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/2f324490993ff5c99e33a18b4f4d94db.jpg"
+  },
+  "329": {
+    "name": "Serious Sam 4",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/d7884a03b145172bae041231a683596a.jpg"
+  },
+  "330": {
+    "name": "Mafia Definitive Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ab95cc27ab9f77c08a9aace44f2aea0d.jpg"
+  },
+  "331": {
+    "name": "Hades",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/fe4fcd6a7e29b042817e0e5e8c0512da.jpg"
+  },
+  "332": {
+    "name": "Spelunky 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/acf2ca62dfa6cf114d5fedd365b70bad.jpg"
+  },
+  "333": {
+    "name": "FIFA 21",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ea5b4c5c43d19dc798570febd7876546.jpg"
+  },
+  "335": {
+    "name": "FIFA 21",
+    "platform": "10",
+    "icon": "https://cdn.saith.dev/ea4521c14bc966b7bc9e5899e4e7c230.jpg"
+  },
+  "338": {
+    "name": "Phasmophobia",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/06fd5591bcf967021f607c4d87ffc701.jpg"
+  },
+  "342": {
+    "name": "Shank 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/1d3245060fa292c0eb491c848bc51fb7.jpg"
+  },
+  "347": {
+    "name": "Planescape: Torment: Enhanced Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/82771d0c114cabda1988fbdaa8c54b35.jpg"
+  },
+  "348": {
+    "name": "Sonic Mania",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/9c28a56ab0ddf3048fd4e644b924c479.png"
+  },
+  "349": {
+    "name": "Outlast",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/08e457364e8d61d887f6569487d43077.png"
+  },
+  "350": {
+    "name": "The Vanishing of Ethan Carter Redux",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/d538cd36c7a01a5740d9ccb75e7cdc8d.jpg"
+  },
+  "351": {
+    "name": "Broforce",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/d47abf3bad30778039099b6f77a72a9a.jpg"
+  },
+  "355": {
+    "name": "Transistor",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ec62babd8e2e6c0e139e0b89d7f60050.jpg"
+  },
+  "356": {
+    "name": "Hob",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0ed293545f0fad4196c139eb34a3a1df.jpg"
+  },
+  "361": {
+    "name": "Terraria",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/10cdfe08f29ac65fb341451e26b066e5.jpg"
+  },
+  "362": {
+    "name": "Titan Quest Anniversary Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a88daa11974ee4ba591725a984f2ad47.jpg"
+  },
+  "363": {
+    "name": "The Room",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/59cdc8ea6d9ee5752119d9789edce99b.jpg"
+  },
+  "364": {
+    "name": "Another World – 20th Anniversary Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/2933770e1a61ef82e1d38e7b301e9b82.jpg"
+  },
+  "365": {
+    "name": "Inside",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ea26a3f45bacaf3958d4e800fb16aa4f.jpg"
+  },
+  "366": {
+    "name": "Legend of Grimrock",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/df854da19a34b465a7031444301a89c9.jpg"
+  },
+  "370": {
+    "name": "Bloodstained: Ritual of the Night",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/71084dd119eacbc3a02ca1b7fb517de6.jpg"
+  },
+  "372": {
+    "name": "Hollow Knight",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/818b11f91d22c49e2baf138f4a0bce11.jpg"
+  },
+  "373": {
+    "name": "Grim Dawn",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/aba2531c3eda6ba90abbdb408f49f6a9.jpg"
+  },
+  "374": {
+    "name": "Salt and Sanctuary",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/7bc9ba279c40649897faebd9597c20b0.jpg"
+  },
+  "376": {
+    "name": "Dead Cells",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a38b23aedf5d602406cbb1e6ca863342.jpg"
+  },
+  "378": {
+    "name": "Momodora: Reverie Under the Moonlight",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/56a3ae7ad4dfa4fdb52a5a508e6dc311.jpg"
+  },
+  "379": {
+    "name": "Amnesia: The Dark Descent",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/be8193e7576f28c67ab8a0f7292ce868.jpg"
+  },
+  "380": {
+    "name": "METAL SLUG 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/612988eb6cc99bddffc976cb601672e2.jpg"
+  },
+  "382": {
+    "name": "METAL SLUG X",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/76687243b76f17992cbee62d60702b64.jpg"
+  },
+  "383": {
+    "name": "Don't Starve Together",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/9379b9af5ea5fc8c4a4a8542cded5561.jpg"
+  },
+  "384": {
+    "name": "Vigil The Longest Night",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/af8842d7f7a4f069a11788aef9d966e0.jpg"
+  },
+  "388": {
+    "name": "Braid",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/514aba12e79a9e94b46e65a7ebbab377.jpg"
+  },
+  "389": {
+    "name": "Cliff Empire",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/43c4e0d9d8838941ee952772036c7d25.jpg"
+  },
+  "390": {
+    "name": "Cuphead",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/bd2363708e78497122c3cd4c847b3d03.jpg"
+  },
+  "391": {
+    "name": "Contra Anniversary Collection",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/b41c5fdc88bbf55d7182a0adbe622ced.jpg"
+  },
+  "392": {
+    "name": "Frostpunk",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/540c6644e1976496bc0ad7782475baf1.jpg"
+  },
+  "395": {
+    "name": "Little Nightmares",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/9eb6f1423d18dc4b11af99ca3d59b3ed.jpg"
+  },
+  "396": {
+    "name": "Machinarium",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0bfc2bb7a3e15965724c9fc187a86578.jpg"
+  },
+  "397": {
+    "name": "Osmos",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ab7a76c5b98a488fe1109e71824e8f28.jpg"
+  },
+  "398": {
+    "name": "Rayman Origins",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/2f6ce69b44e3ebbe2711f91aca878d9c.jpg"
+  },
+  "399": {
+    "name": "This War of Mine",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/674a8bcece5b35efccb0a192baecec5e.jpg"
+  },
+  "430": {
+    "name": "Apex Legends",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/2fc3aeec34549faefe3d4bfdf6c9d0ac.jpg"
+  },
+  "431": {
+    "name": "The Dark Pictures Anthology: Little Hope",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/bbb6251208e5b9c5a7440e26ec5c34fd.jpg"
+  },
+  "667": {
+    "name": "Half-Life 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/1dac75a23e08c925733707f68368a2b5.png"
+  },
+  "668": {
+    "name": "The Forest",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/8fafbcd58ae473d3f732d95a0399f3ff.png"
+  },
+  "670": {
+    "name": "Spintires: MudRunner",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/48f4f106dbaffc9815d837d06356d4d7.png"
+  },
+  "671": {
+    "name": "Elite Dangerous",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/cb0814be4f01085239ff80468041727f.png"
+  },
+  "673": {
+    "name": "Empire of Sin",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/79276c7cfa718b083a09f951904543ba.png"
+  },
+  "674": {
+    "name": "BATTLETECH",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/9dad277b1574cd39d79ad4e51df4ce1e.jpg"
+  },
+  "675": {
+    "name": "Othercide",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/73b98a6ec5c6732baa396eabe6c37d50.png"
+  },
+  "678": {
+    "name": "Phoenix Point",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f78fc925709b907fd598fc6c73dd311f.jpg"
+  },
+  "679": {
+    "name": "Alien Swarm",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f6aee640cb3e32f9c8e11fe0ac104692.jpg"
+  },
+  "680": {
+    "name": "Alien Swarm Reactive Drop",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f70029a18b4f28e2f7945bfdbe3e0906.jpg"
+  },
+  "681": {
+    "name": "Red Dead Redemption 2",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/6130f8c081a6c2e5bae17d7aa47d9d58.png"
+  },
+  "682": {
+    "name": "Cyberpunk 2077",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/4e357a76369491181b4bae95bb566829.jpg"
+  },
+  "683": {
+    "name": "Cyberpunk 2077",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/549c91681620876b784e70a8635f2f50.jpg"
+  },
+  "684": {
+    "name": "theHunter: Call of the Wild",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/883a32731978bbb88cc9b4a509bf20cf.png"
+  },
+  "689": {
+    "name": "Conan Exiles",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ab31f23fe868957823df083116fac725.jpg"
+  },
+  "690": {
+    "name": "Alien Isolation",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/852e2fc17926a631afe47022f92e3dc7.jpg"
+  },
+  "691": {
+    "name": "Farming Simulator 19",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/3b502a76551a59c1f2d7d44daa78def0.jpg"
+  },
+  "692": {
+    "name": "Super Meat Boy Forever",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/eb4e67ef642bda61f4140a553feb1aee.jpg"
+  },
+  "693": {
+    "name": "Rogue Company",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/0f3d8f217359096b271ea11bd876079e.jpg"
+  },
+  "694": {
+    "name": "The Binding of Isaac Rebirth",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ca084ae12b778a5644dcb0d2758981e0.jpg"
+  },
+  "695": {
+    "name": "Mortal Kombat X",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/511522b046bd4582647c792b770463f8.jpg"
+  },
+  "696": {
+    "name": "Stranded Deep",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/d0010c5d1e83559e5dffee063999343c.jpg"
+  },
+  "699": {
+    "name": "Jurassic World Evolution",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/222b09dc32f583563b31412d81c461d3.jpg"
+  },
+  "701": {
+    "name": "Mafia II Definitive Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/911d702d2936b8e170bc4008b9353e42.jpg"
+  },
+  "702": {
+    "name": "HITMAN 3",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/8ba43a7e101a5519687a3087912b9c7a.jpg"
+  },
+  "703": {
+    "name": "Skul: The Hero Slayer",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a367b050a9149d2960c51c9801c8dd89.jpg"
+  },
+  "705": {
+    "name": "Red Dead Online",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/9fa4fef1c8cc368dab372b87f2b3e031.jpg"
+  },
+  "710": {
+    "name": "Nioh 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ab838c21a2fa9c7f288d11f24352eef0.jpeg"
+  },
+  "711": {
+    "name": "Valheim",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/6525f76e9b41e28a5d8ff31a6b262376.jpg"
+  },
+  "712": {
+    "name": "ENDER LILIES: Quietus of the Knights",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/b4573358915926c225199b8bd0497351.jpg"
+  },
+  "714": {
+    "name": "Stellaris",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/b026afcbc3a4386ef9ccbdd221a2bd4a.jpg"
+  },
+  "715": {
+    "name": "Cities: Skylines",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c62581e4cd7cafe7d104c76d1aba0ff9.jpg"
+  },
+  "716": {
+    "name": "Europa Universalis IV",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/9a5b5e57b433863b74a7dd5e347cb707.jpg"
+  },
+  "717": {
+    "name": "Little Nightmares 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/44fc1bf860398dd765611729955b477c.jpg"
+  },
+  "719": {
+    "name": "Outriders demo",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/5f2397597ab08c213c87d8fc67aeab2e.jpg"
+  },
+  "722": {
+    "name": "Surviving Mars",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/9f8d50c84970e722905649e5bf2651ff.png"
+  },
+  "723": {
+    "name": "Crash Bandicoot 4",
+    "platform": "Battle.net",
+    "icon": "https://cdn.saith.dev/f23a901a517ec7a0da5f253fd6f76942.jpg"
+  },
+  "724": {
+    "name": "OUTRIDERS",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3fd23cb569a50dd483f37f589aa62877.jpg"
+  },
+  "725": {
+    "name": "SnowRunner",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/9a92f041830d1aee1452031179b54299.png"
+  },
+  "726": {
+    "name": "Red Dead Redemption 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/8f91d9163c2b13bd5d858d1a03593855.png"
+  },
+  "727": {
+    "name": "Nier Replicant",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f34e3d53a0685142873f97c60047ce36.jpg"
+  },
+  "729": {
+    "name": "Resident Evil Village",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c29f92a13d0787d4faef309930d97d8d.jpg"
+  },
+  "730": {
+    "name": "Subnautica: Below Zero",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/94b1dd0d83f9236d0267d85fbd31cceb.jpg"
+  },
+  "732": {
+    "name": "Mass Effect Legendary Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/4df07dbe3f8d8f58bc6a0652083dd6c7.jpeg"
+  },
+  "733": {
+    "name": "Dojoran",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/25cca35275ce89824406096c52f35c31.jpg"
+  },
+  "734": {
+    "name": "Days Gone",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/9d2c055bf9bd504b423a6859c6c89eae.jpeg"
+  },
+  "735": {
+    "name": "NBA2K21 ",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/b6c2bfd12a1348634db8fbf783823e2b.jpg"
+  },
+  "737": {
+    "name": "The Hunting God",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/97048875f361498abac4faa6ba25534e.jpg"
+  },
+  "738": {
+    "name": "Among Us",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/f78542d4f5e79039701a287fc8d2891f.jpg"
+  },
+  "739": {
+    "name": "Company of Heroes 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/dd81385f500c4934fa8f37c413be5c96.jpg"
+  },
+  "743": {
+    "name": "Iron Harvest",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/800b954f98e4d55ba1ddc13ba83e9e97.jpg"
+  },
+  "747": {
+    "name": "Darwin Project",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f7dab1c0fcf8b3d12f6c775912ef05bf.jpg"
+  },
+  "751": {
+    "name": "Battlefield 4",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c22df8ede1b266fbc2a8369c64854920.jpg"
+  },
+  "752": {
+    "name": "Battlefield 1",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0c6d3f4e5deb48118c3c04f600b05825.png"
+  },
+  "753": {
+    "name": "Battlefield V",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/44dc0b236074d4e4f575e28c91746064.jpg"
+  },
+  "754": {
+    "name": "DARK SOULS™ II: Scholar of the First Sin",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/d88ade843fb014208d69c1f1b7567480.jpg"
+  },
+  "755": {
+    "name": "Sonic Mania",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/14d2e3e3fefa1b1e32f1f7ee3b223dbb.png"
+  },
+  "756": {
+    "name": "Grand Theft Auto IV: The Complete Edition",
+    "platform": "Rockstar Games",
+    "icon": "https://cdn.saith.dev/09a084cc0e0709063eb2909fad2983bf.jpg"
+  },
+  "757": {
+    "name": "Battlefield 1",
+    "platform": "10",
+    "icon": "https://cdn.saith.dev/0c433afc8c6dd9bd29235cee6e21ff8a.png"
+  },
+  "761": {
+    "name": "Verdun",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/fa06f5f8b6572a79dd7f9de62f63742e.jpg"
+  },
+  "762": {
+    "name": "Chernobylite",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/77318c6e93835da07f2551ba1aa83804.png"
+  },
+  "763": {
+    "name": "Disco Elysium - The Final Cut",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/28f71656ad19b30a29696b6b533efbcc.jpeg"
+  },
+  "764": {
+    "name": "Orcs Must Die! 3",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/501657f42d914bbeff3c95b82f196fd2.png"
+  },
+  "765": {
+    "name": "The Ascent",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/504aaade4c407626d453a2157fce8952.jpg"
+  },
+  "767": {
+    "name": "A Plague Tale: Innocence",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/728ad7d90402134ada55415294ac6cab.jpg"
+  },
+  "768": {
+    "name": "Splitgate",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f8b9ce12a26c1ae4571ed13d304b3ec4.jpg"
+  },
+  "769": {
+    "name": "NARAKA: BLADEPOINT",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a7aed4cccd6fbd83faf6374f10b88c5f.jpg"
+  },
+  "770": {
+    "name": "Ary and the secret of seasons",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/379694b6cb5963162535e7cf9728064e.jpg"
+  },
+  "771": {
+    "name": "Humankind",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/81cbcabea780657a83f5fa82b37cafcd.jpg"
+  },
+  "773": {
+    "name": "Extinction",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/4a05cee4d3505f6ae4c1ab6b118a7cfe.jpg"
+  },
+  "774": {
+    "name": "Bear With Me The Lost Robots",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/79af20b3674fcbfaeac6fea71e1c4df2.png"
+  },
+  "775": {
+    "name": "Lost Words: Beyond the Page",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/1dec5dd12b90a0a3e4abc8979b958bc9.jpg"
+  },
+  "776": {
+    "name": "Override 2: Super Mech League",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c9fff2af87be0d27e516fb3d4b5489b8.png"
+  },
+  "777": {
+    "name": "Remothered Broken Porcelain",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3af1cfef8e0d48fd1c9ba53922373d8a.png"
+  },
+  "778": {
+    "name": "Rock of Ages 3: Make & Break",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/472af7a16f03c8a397791c1a4846b3a0.png"
+  },
+  "779": {
+    "name": "Skully",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a0315a53bbb046057bfa503a7568c0b8.png"
+  },
+  "780": {
+    "name": "Warshmallows",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c9f0463b417a4f714fadc1dac74374b1.jpg"
+  },
+  "782": {
+    "name": "Sunblaze",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/9016b7517690c17089628b45aed8fa27.jpeg"
+  },
+  "783": {
+    "name": "Aliens: Fireteam Elite",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/13d24993e39252662599258a5399be74.jpg"
+  },
+  "784": {
+    "name": "King's Bounty II",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/526f39f27469420e6d1fa8d1944660d5.jpg"
+  },
+  "792": {
+    "name": "Saints Row®: The Third™ Remastered",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/be261935d9e4fdcede3f39be91c5a93f.jpg"
+  },
+  "793": {
+    "name": "Void Bastards",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/0c22dc64a055ead97c97ed1a4a3e85b1.jpg"
+  },
+  "794": {
+    "name": "Bigfoot",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/64f463787e7741087dd294eb5e9a8b46.jpg"
+  },
+  "795": {
+    "name": "Drizzlepath",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/6d09d21741bb2121b4bf1c6fa7dc0446.jpg"
+  },
+  "796": {
+    "name": "Drizzlepath Genie",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a5ab9ea4ed15f5ef1d484304dcf4211e.jpg"
+  },
+  "797": {
+    "name": "Guardian of Lore",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0e8a97f65a7df9a44efd45bf712c2337.jpg"
+  },
+  "804": {
+    "name": "Two Hundred Ways",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/b74a19241d9f2a1d6c98fae99bbc1890.jpg"
+  },
+  "805": {
+    "name": "Life Is Strange: True Colors",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/34c3ac8d4ad6d5fa2b806f97ad53addb.jpg"
+  },
+  "807": {
+    "name": "Pathfinder: Wrath of the Righteous",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c7158e76f223e1a10b9dc0ab8490e326.jpg"
+  },
+  "808": {
+    "name": "Nioh: The Complete Edition",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/db39491be7d6eb5fd27a4794ad165e3d.jpg"
+  },
+  "810": {
+    "name": "Enlisted",
+    "platform": "Gaijin",
+    "icon": "https://cdn.saith.dev/b0ac25d00bd61ea3c3b9769026371370.jpg"
+  },
+  "811": {
+    "name": "CRSED: F.O.A.D",
+    "platform": "Gaijin",
+    "icon": "https://cdn.saith.dev/11e0acde09b6637520754ccc1da12c67.jpg"
+  },
+  "812": {
+    "name": "Star Conflict",
+    "platform": "Gaijin",
+    "icon": "https://cdn.saith.dev/2fff508bf6845a728e7026da34b329e8.jpg"
+  },
+  "814": {
+    "name": "Finding the Soul Orb",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e113aa0e7e101c73bd3452184517781a.png"
+  },
+  "815": {
+    "name": "Bottle Pilgrim Redux",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/2089bd2dc40a5e09a9197cb59252f172.png"
+  },
+  "818": {
+    "name": "Chionophile",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/997e4e6271db015ca0d9d280e7faebe5.png"
+  },
+  "821": {
+    "name": "Cions of Vega",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/57fb9b29fbbceb741078588b9dd3117d.png"
+  },
+  "823": {
+    "name": "Pluviophile",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/53d9935ad6d343c3ca3d251f3b6beb61.png"
+  },
+  "825": {
+    "name": "Little Brother Jim",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f9d3ebd7f48814e4f338c46261a5c932.png"
+  },
+  "826": {
+    "name": "Education",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ac65a2c3a8741b867180956cc9491e71.png"
+  },
+  "827": {
+    "name": "Kena: Bridge of Spirits",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/145d1fa424f6ae56917ff725e754bbb3.png"
+  },
+  "832": {
+    "name": "Diablo® II: Resurrected™",
+    "platform": "Battle.net",
+    "icon": "https://cdn.saith.dev/26bcfb81acb50c8d584d3daaf6c8b49c.png"
+  },
+  "833": {
+    "name": "FIFA 22",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/277b6f82a5a783ae8d31ce32bea24add.jpeg"
+  },
+  "834": {
+    "name": "FIFA 22",
+    "platform": "10",
+    "icon": "https://cdn.saith.dev/fd5e6374582fd8a8ebe960cfbc1fb5ac.jpeg"
+  },
+  "836": {
+    "name": "eFootball™ 2023",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/50d295ff214961e9e6f0f60e4b5711cf.png"
+  },
+  "840": {
+    "name": "Last Soul - Prologue",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0b851ac164ecac3dd85036c21b9dd504.jpg"
+  },
+  "841": {
+    "name": "Nephise",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/97865ed8c520bd4c066f84ad05369b5d.jpg"
+  },
+  "843": {
+    "name": "American Truck Simulator",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/edcd02575902947d350f296061eba8c4.png"
+  },
+  "845": {
+    "name": "PC Building Simulator",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/07110a43aa58883c41ec5de2f4923a59.jpg"
+  },
+  "846": {
+    "name": "Spirit of Europe - Origins",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/9f5bdd12651329ece8c259811a752b7f.jpg"
+  },
+  "847": {
+    "name": "Back 4 Blood",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e0add46adf39920dd5c5ccf08f326ac6.jpg"
+  },
+  "848": {
+    "name": "The Dark Pictures Anthology: House of Ashes",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e86ca26c40de29e9dc512c10461a2c9f.jpg"
+  },
+  "849": {
+    "name": "The Dark Pictures Anthology: Man of Medan",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a6c167cdfc3ec53f369aecca692ce832.jpg"
+  },
+  "850": {
+    "name": "Riftbreaker",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/20098b8614b53add01e2977fa471a41f.jpg"
+  },
+  "851": {
+    "name": "Inscryption",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0489bbb3bf34e0f3850ac4c87c7b41d2.jpg"
+  },
+  "852": {
+    "name": "Among the Sleep — Enhanced Edition",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/fb032558988c275be35de7d4e208b0e2.jpg"
+  },
+  "855": {
+    "name": "Need for Speed Heat",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ac17e5c78310b05ae37a2e40d5c14429.jpg"
+  },
+  "856": {
+    "name": "Genshin Impact",
+    "platform": "Cloud Gaming",
+    "icon": "https://cdn.saith.dev/81f6c0d026643c0308c9bfd7d1045f70.jpg"
+  },
+  "857": {
+    "name": "Hearts of Iron IV",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/548f53805aa87d099d860476bde16d35.jpg"
+  },
+  "858": {
+    "name": "Call of Duty: Vanguard",
+    "platform": "Battle.net",
+    "icon": "https://cdn.saith.dev/18ea33aee2e8fb71522e35bcaf68c6e8.jpg"
+  },
+  "859": {
+    "name": "Grand Theft Auto: The Trilogy - The Definitive Edition",
+    "platform": "Rockstar Games",
+    "icon": "https://cdn.saith.dev/a82a42d2ca9b8911bcbcb1bb51ffedf2.png"
+  },
+  "860": {
+    "name": "Football Manager 2022",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/70278474f8dad8c8ac0918cff1645b52.jpg"
+  },
+  "862": {
+    "name": "Jurassic World Evolution 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/d12c99e6674ce16b08a6066e0200582d.jpg"
+  },
+  "863": {
+    "name": "Deep Rock Galactic",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/da3b516c3e9f684d3b2a7b8db517b33e.jpg"
+  },
+  "864": {
+    "name": "Crab Game",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/5ce7c6d18e0cd3ae42955836a6cb5391.jpg"
+  },
+  "865": {
+    "name": "Aven Colony",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/7aab298648c7c65f477571d77ab4b29d.jpg"
+  },
+  "866": {
+    "name": "Surviving the Aftermath",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/be6dd979db56660329a68d5c2fcbb58a.jpg"
+  },
+  "868": {
+    "name": "Farming Simulator 22",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/2e1683f9ccf4c5efca33a20503acc1e0.jpg"
+  },
+  "874": {
+    "name": "theHunter: Call of the Wild",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/939d47d7d3c6d6c50793b27fd9956249.png"
+  },
+  "875": {
+    "name": "It Takes Two",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3cf2b2b4c4d83d5f37d4f4fce6867960.jpg"
+  },
+  "876": {
+    "name": "Satisfactory",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/2da23e8ea80bd97d60149ee6cdfaa787.jpg"
+  },
+  "878": {
+    "name": "Dead by Daylight",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/c31aa4dc60263d63312cbd26a89957e8.jpg"
+  },
+  "881": {
+    "name": "Tomb Raider GOTY",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/f23e9b3d19fcf1b876e4af14da3053fb.png"
+  },
+  "882": {
+    "name": "Rise of the Tomb Raider",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/88055d447ec64e7313057831c99b939a.png"
+  },
+  "883": {
+    "name": "Shadow of the Tomb Raider",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/54a5f60cd1c15fcfdb2e08aa4ddbbdf1.png"
+  },
+  "884": {
+    "name": "Gods Will Fall",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/82a4a842227021d6c8f605c7088a7651.jpg"
+  },
+  "885": {
+    "name": "Dauntless",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/b29ca92bf7f24171b98bb27810bbdac6.jpg"
+  },
+  "886": {
+    "name": "God of War",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/8599801521a26689217d019802e39326.jpg"
+  },
+  "887": {
+    "name": "Assetto Corsa",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/7081724a79748df144c56bb514608313.png"
+  },
+  "888": {
+    "name": "Slime Rancher",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a85e42bc48fc28b4b6dfe835b5d95550.png"
+  },
+  "889": {
+    "name": "Project Zomboid",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c6b6bc8145a539a13e60c83ee9a76600.png"
+  },
+  "891": {
+    "name": "Ready or Not",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ba3e02cbf999dfe54c1ebc59a11c8785.png"
+  },
+  "892": {
+    "name": "Icarus",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/fae68c30b8e0c354db2cf612741946ea.png"
+  },
+  "893": {
+    "name": "Five Nights at Freddy's: Security Breach",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/21aa9ce861d60aa3d96423d6876face8.jpg"
+  },
+  "894": {
+    "name": "Pupperazzi",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/1ba9a6b4fc1ec020bfbdb81433076d54.jpg"
+  },
+  "895": {
+    "name": "Grand Theft Auto IV: The Complete Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/49a7974c392bae564682e78f0aac5a5e.jpg"
+  },
+  "896": {
+    "name": "Hotline Miami",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f63de8a8092d10e8dea037bae06124a9.png"
+  },
+  "897": {
+    "name": "Hotline Miami 2: Wrong Number",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e9279c6da8abc3865a3d27a5a1841ef6.png"
+  },
+  "898": {
+    "name": "Yu-Gi-Oh! Master Duel",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/35529ebb7e94495ebecd96cce22512ee.png"
+  },
+  "899": {
+    "name": "God of War",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/417c940dad7e8ca11816489dc581bae4.jpg"
+  },
+  "900": {
+    "name": "Life is Strange: Remastered",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ceb9dd78737e4f18740c76cda720486a.jpg"
+  },
+  "901": {
+    "name": "Life is Strange: Before the Storm Remastered",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/814cc6d293e9cd79c9aa9759d35d825a.jpg"
+  },
+  "902": {
+    "name": "Dying Light 2 Stay Human",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/26fb94e835b4445cb6d2efc8b3b067df.jpg"
+  },
+  "904": {
+    "name": "Yooka-Laylee and the Impossible Lair",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/75fca537c4f561cf6a8885483a48105d.jpg"
+  },
+  "905": {
+    "name": "Sifu",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/375e77e9cefa34f0307947265efbd043.jpg"
+  },
+  "906": {
+    "name": "Lost Ark",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0b702ef108c88a50aa3987d0f5866764.jpg"
+  },
+  "907": {
+    "name": "Metro Exodus",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/1a3dcccb57cc96471ab0875231f507f5.jpg"
+  },
+  "908": {
+    "name": "Total War WARHAMMER III",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/7e80a606ab166c469730566e63d2948a.jpg"
+  },
+  "909": {
+    "name": "Elden Ring",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e7ac84d33b534831574da87a1f5140ef.jpg"
+  },
+  "910": {
+    "name": "WWE 2K22",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/6bb7822b10a8fec106bae41ea763d79a.jpg"
+  },
+  "911": {
+    "name": "Death Stranding: Director's Cut",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/7dedc742e75dac096c7bb890ea5ae91d.jpg"
+  },
+  "912": {
+    "name": "Vampire: The Masquerade - Swansong",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/7e0aecfbf2b716b589b54f9ee6822684.jpg"
+  },
+  "913": {
+    "name": "Vampire: The Masquerade - Bloodhunt",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0c9198cfc6da7a5586477f7494264bcb.jpg"
+  },
+  "914": {
+    "name": "V Rising",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/038f7ddc6ce262dd9f238330cbc2d4ca.jpg"
+  },
+  "915": {
+    "name": "Bioshock Remastered",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/69ce706895be1992e0b4c73e0dd2c6f5.jpg"
+  },
+  "916": {
+    "name": "Bioshock 2 Remastered",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/c5c465dd81d4582c8a5279a9ab09251d.jpg"
+  },
+  "917": {
+    "name": "BioShock Infinite: The Complete Edition",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/41f07dd07b4586c44b9aec8e6d035667.jpg"
+  },
+  "918": {
+    "name": "The Quarry",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/bb7b0ee6a7106cbab0e1efd2a04d8137.jpg"
+  },
+  "920": {
+    "name": "Squad",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/7e3e0360acb3da111e022af8892da691.jpg"
+  },
+  "921": {
+    "name": "LEGO® Star Wars™: The Skywalker Saga",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c720f87a2cd452c4ee6f7f68b1bc25e8.jpg"
+  },
+  "922": {
+    "name": "DRAGON BALL FighterZ",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/12ee0549c0af2367705df28c5527acd2.jpg"
+  },
+  "925": {
+    "name": "Eternal Return",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/35a1e802fc22aa42b445a0295237bdc0.jpg"
+  },
+  "927": {
+    "name": "Core",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/8898280ccbbc5343b01bb60ff7f8d699.jpg"
+  },
+  "928": {
+    "name": "RuneScape",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/4edb26906ee685ccb4a85e171174e73d.jpg"
+  },
+  "929": {
+    "name": "Fishing Planet",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/7f661a0296043acf2016b198cbc68296.jpg"
+  },
+  "931": {
+    "name": "Dune: Spice Wars",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e785932951deed96cd0af831b60212ba.jpg"
+  },
+  "933": {
+    "name": "Shadow Tactics",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0852df16b9682874983d14f4205c2d51.jpg"
+  },
+  "934": {
+    "name": "Road 96",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/d333db2e4cd610fb304e797456b6245f.jpg"
+  },
+  "935": {
+    "name": "GUILTY GEAR STRIVE",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/18bdb6e3f8e762427f888043648fe479.jpg"
+  },
+  "936": {
+    "name": "GreedFall",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3e9c89122f0d2736ccf28af319ba5112.png"
+  },
+  "938": {
+    "name": "Galactic Civilizations III",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/85b80c57a1b8387505380dac4706e809.jpg"
+  },
+  "939": {
+    "name": "Bright Memory: Infinite",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/076282d0239fc469f166b3975f635671.jpg"
+  },
+  "940": {
+    "name": "METAL GEAR RISING: REVENGEANCE",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/028cfa811721a960ebcd8c49d01a877d.jpg"
+  },
+  "941": {
+    "name": "Bayonetta",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/cd6cd27958fa42c2febf0a46154727ba.png"
+  },
+  "942": {
+    "name": "ULTRAKILL",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0e9d0d17b80b4413167d83276dcf9bce.png"
+  },
+  "943": {
+    "name": "Vampire Survivors",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3b191811c09bf53b496acfaa782a7fc5.png"
+  },
+  "944": {
+    "name": "Factorio",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c86e8b83b84f00880b2df4940f27557b.jpg"
+  },
+  "945": {
+    "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/b8a08fbddfd49127587be0f71a381271.png"
+  },
+  "946": {
+    "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/1bcda48ce0a4d1b96e1f22c948d1f81b.jpg"
+  },
+  "948": {
+    "name": "Command & Conquer™ Remastered Collection",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/fe78b5dc0c99f50e15b43f8e48c6bff0.jpg"
+  },
+  "949": {
+    "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/7e9b9da55b57576294f4922bd724be75.jpg"
+  },
+  "950": {
+    "name": "MONSTER HUNTER RISE",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/7ce0c0589f7b84e48d308a9c5738d028.jpg"
+  },
+  "951": {
+    "name": "Fall Guys",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/caa7f36f3388d55349d3f111eb73d263.jpg"
+  },
+  "952": {
+    "name": "Raft",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/2bf25d748ae5c454e111699ccbcc8716.jpg"
+  },
+  "953": {
+    "name": "Metal Gear Solid V: The Phantom Pain",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/59ca33809b42a73f8d6e9c9557936a98.jpg"
+  },
+  "954": {
+    "name": "Solasta: Crown of the Magister",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/cf1478a6d0a82d50d49682c762cdebe0.jpg"
+  },
+  "955": {
+    "name": "Yakuza: Like a Dragon",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c1c4c66d1430c24d67681ff123a8e08e.jpg"
+  },
+  "956": {
+    "name": "Yakuza Kiwami 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/434f4b5835e3ec03c15ca7e7ac65a3e5.jpg"
+  },
+  "959": {
+    "name": "Tales of Arise",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3f6e17f5e104f0621d4f67c385bb0735.jpg"
+  },
+  "961": {
+    "name": "Noita",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c5077c0856e9f4f2caa9a45f5a248d8f.jpg"
+  },
+  "962": {
+    "name": "Risk of Rain 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/eb29b3b297251e241146b8b19992bc48.jpg"
+  },
+  "964": {
+    "name": "Starship Troopers: Terran Command",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/2db31abd12cd8310efd5b238e92d7737.jpg"
+  },
+  "965": {
+    "name": "My Summer Car",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/11a71d73a1c4cd6356181fb86b5d4738.png"
+  },
+  "966": {
+    "name": "Sniper Elite 5",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3c4d7231a88fe6fd602dcbb2941090f9.jpg"
+  },
+  "967": {
+    "name": "A Way Out",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e296d9a46e1308f2767f9d1cec5124b1.jpg"
+  },
+  "968": {
+    "name": "Brothers - A Tale of Two Sons",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/26ceb9e3bc66745d26b8793be659bc57.jpg"
+  },
+  "969": {
+    "name": "Castle Crashers®",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/64b7f1ab9cfbdb5010dd081ffb9e9c7b.jpg"
+  },
+  "971": {
+    "name": "Ghostrunner",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e8e6a088212fcd9e3d5af30af484d695.png"
+  },
+  "972": {
+    "name": "Neon White",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/802a44e683349831f2d28ab62bd436aa.jpg"
+  },
+  "973": {
+    "name": "HITMAN 3",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/252bc6c7c8324bfb31f8f5eb2b353a73.jpg"
+  },
+  "974": {
+    "name": "SAMURAI SHODOWN",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/858b7bde5624feddb1fb8b5a6a27f257.jpg"
+  },
+  "975": {
+    "name": "Kenshi",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/092430c4edbf717de99388d356a0fa9c.jpeg"
+  },
+  "976": {
+    "name": "F1 22",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/460d10a13c0342d0bfe9ea9dbf147c41.jpg"
+  },
+  "977": {
+    "name": "ATOM RPG: Post-apocalyptic indie game",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/00f7a3b8daeae242faced90bd2386ed9.png"
+  },
+  "978": {
+    "name": "ATOM RPG Trudograd",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0933a1ce373fa200716e3dbe740ce37f.jpg"
+  },
+  "988": {
+    "name": "SnowRunner",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/dcb29bd80532de08fc9ac4f67f411683.png"
+  },
+  "989": {
+    "name": "The Long Dark",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a82f55feabfbdae6ae671367b561008a.jpg"
+  },
+  "990": {
+    "name": "Stardew Valley",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3346e5dda669b752469098f70e22fa9c.png"
+  },
+  "991": {
+    "name": "Redout 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/886b66320e54bb3a8950ba65987b49e7.jpg"
+  },
+  "993": {
+    "name": "Maneater",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/c2aefa2d30ecc0a666c390f0d828f95b.jpg"
+  },
+  "994": {
+    "name": "Baldur's Gate 3",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/d67ada4d27e82ce3507b12ed3c2130ae.jpg"
+  },
+  "995": {
+    "name": "DRAGON BALL Z: KAKAROT",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3d798d58f8ed8e315a326d21cf17f575.jpg"
+  },
+  "996": {
+    "name": "Dead Island Definitive Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/935679f5f4aa751d5ce2b6ca504409c1.jpg"
+  },
+  "997": {
+    "name": "Firewatch",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ab11ad10cda281709b7a900f60d839a5.jpg"
+  },
+  "999": {
+    "name": "ELEX",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/81be9161c8ee8fb9bb2e50763b6a88b1.jpg"
+  },
+  "1000": {
+    "name": "ELEX II",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/14900f446b18bc81d64adb7a24cf7afc.jpg"
+  },
+  "1001": {
+    "name": "Slipways",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/6e8fe19ba278d80159cbd68226aad89c.jpg"
+  },
+  "1002": {
+    "name": "Syberia: The World Before",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/344bee25af63ef923f0057e27541b29e.jpg"
+  },
+  "1003": {
+    "name": "Outward Definitive Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3f989ad7236cbd500d05e1c36a3ef074.jpg"
+  },
+  "1004": {
+    "name": "Stray",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/7baee41b713b2b498d2a3dd1c72845ee.jpeg"
+  },
+  "1005": {
+    "name": "Days Gone",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/de8fb1c2770e92e485de75c88d2b1452.jpg"
+  },
+  "1006": {
+    "name": "MultiVersus",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a3d75d3b12d401448aecc842013fc821.jpg"
+  },
+  "1008": {
+    "name": "Hell Let Loose",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/85c7e688afc128f75d52f23e1b08e4ff.jpg"
+  },
+  "1009": {
+    "name": "Elite Dangerous",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/28af7c13f0bfd59966a758ab0ee74afd.jpg"
+  },
+  "1010": {
+    "name": "King Arthur: Knight's Tale",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/8a2c464f2fd0daaf9ecbd332ae28a519.jpg"
+  },
+  "1011": {
+    "name": "Gang Beasts",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/7bd8e6adfcb46110dbb8b208572d4888.jpg"
+  },
+  "1013": {
+    "name": "STAR WARS Battlefront II",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ea20d0c3825b3d8046c6367803a51003.jpg"
+  },
+  "1014": {
+    "name": "Insurgency: Sandstorm",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/43d0a643f5452079dfa61a5ea170d9d9.jpg"
+  },
+  "1016": {
+    "name": "Amnesia: Rebirth",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/bf6bc2b58c292518fa364331744bd214.jpg"
+  },
+  "1018": {
+    "name": "Weird West",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/688691efe1cb9c18fa7aaac23d86e4f8.jpg"
+  },
+  "1019": {
+    "name": "XCOM® 2",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/454e2dc68cf75a86e42dcfd0657f4ba6.jpg"
+  },
+  "1020": {
+    "name": "BattleBlock Theater®",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f3aa592a288fb84dc3b6f7e3acc47c03.jpg"
+  },
+  "1021": {
+    "name": "RimWorld",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e0ac434691eef7740712f10e517d153a.jpg"
+  },
+  "1022": {
+    "name": "Tannenberg",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/8b4cffd39b36d4e69ca3caaac5ff33ad.jpg"
+  },
+  "1024": {
+    "name": "Darkwood",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e7fa3950207783c62e250a75b496801a.jpg"
+  },
+  "1025": {
+    "name": "Northgard",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/71f7cec33887484215473b772f9ab3de.jpg"
+  },
+  "1026": {
+    "name": "Marvel's Spider-Man",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/78028f80962b2c0a858441a134eb25e5.jpg"
+  },
+  "1027": {
+    "name": "Outlast 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/792187434a959cafcf5b7ac2ba2208ae.jpg"
+  },
+  "1028": {
+    "name": "Sleeping Dogs: Definitive Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/8e46234d8a171d523bafbd4fcbc14e0d.jpg"
+  },
+  "1029": {
+    "name": "Marvel's Spider-Man",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/c69fa8e34584a6f08b59431b6bd4d1ca.jpg"
+  },
+  "1030": {
+    "name": "Sid Meier’s Civilization® VI",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/e423d392a522c487b99b5386e02ce2d5.jpg"
+  },
+  "1032": {
+    "name": "Gunfire Reborn",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/70d532584758140d335317b4a5986122.jpg"
+  },
+  "1033": {
+    "name": "Cult of the Lamb",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/5b6f3b098cdd242285826caea8da3586.jpg"
+  },
+  "1034": {
+    "name": "Guild Wars 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/93b0bd87def7d4afea8dc89f11bb86e5.jpg"
+  },
+  "1036": {
+    "name": "Poppy Playtime",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/345905e73a9349d94768972ff1453551.jpg"
+  },
+  "1037": {
+    "name": "Need for Speed Payback",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/6db2b13db4acffc9228937cb3ec2b43d.jpg"
+  },
+  "1038": {
+    "name": "The Sinking City",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c9a987f6b9c67d2f27b87f5bd5975274.jpg"
+  },
+  "1039": {
+    "name": "NBA 2K23",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/2c21bc3463c551204fb74b597dd7c0ee.jpg"
+  },
+  "1040": {
+    "name": "Harlow",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/2c8e4af2039e703348a97481e702c155.jpg"
+  },
+  "1041": {
+    "name": "Super Impossible Road",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/38a38dcfac18fcb98fa22927df7efbc3.jpg"
+  },
+  "1042": {
+    "name": "Super Mega Zero",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/145cc0976a83a27de6c8de7c4033ca16.jpg"
+  },
+  "1043": {
+    "name": "Stumble Guys",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/6245e8ac18db5b2d844a6fbe55dbc41d.jpg"
+  },
+  "1044": {
+    "name": "Dragon's Dogma: Dark Arisen",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0b0accfd8cc8855f2f56de20ad7e2074.jpg"
+  },
+  "1045": {
+    "name": "Chivalry 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f4e91b89a87c6baa864d56973b39a811.jpg"
+  },
+  "1051": {
+    "name": "Batman Arkham Knight",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/402b22e1af4706495d172135cda3dd74.jpg"
+  },
+  "1052": {
+    "name": "Portal 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ce1ee95bccedf5e47096cd88da1f6460.jpg"
+  },
+  "1054": {
+    "name": "Turbo Overkill",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/5510fe8709c60f8298146985db85fd2f.jpg"
+  },
+  "1055": {
+    "name": "Project Warlock",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/2f136e375321e8a2525422fb83865095.jpg"
+  },
+  "1058": {
+    "name": "Project Warlock 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/b0424a74d9266dc3f6702319aa4e3538.jpg"
+  },
+  "1059": {
+    "name": "Ion Fury",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ee740214cfdde942fc317dd432b38cb7.jpg"
+  },
+  "1060": {
+    "name": "Prodeus",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e126565a287683cf8c3c6bbff15deb99.jpg"
+  },
+  "1061": {
+    "name": "Metal: Hellsinger",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/182f6e857553d7074e5d31cab09e2d5f.jpg"
+  },
+  "1062": {
+    "name": "BPM: BULLETS PER MINUTE",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c7cdd9b0a50801643292f5a5c12197a6.jpg"
+  },
+  "1064": {
+    "name": "GTFO",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/9997f526600010ce72d7500319871d48.jpg"
+  },
+  "1066": {
+    "name": "Isonzo",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f2081e1879121e734f4b39919fe807f8.jpg"
+  },
+  "1067": {
+    "name": "ACE COMBAT™ 7: SKIES UNKNOWN",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/fce00e08feea2e7c649adea44fa23faa.jpg"
+  },
+  "1069": {
+    "name": "Omega Strikers",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e979cd7035217a05610425f8e6b898a3.jpg"
+  },
+  "1070": {
+    "name": "The Walking Dead: The Telltale Definitive Series",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/16954e198b5ab8673538facbb39f0e82.jpg"
+  },
+  "1071": {
+    "name": "Visage",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/de596f2d2c502ea02409c3c26fd72471.jpg"
+  },
+  "1072": {
+    "name": "Predator: Hunting Grounds",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/26bb94f2e64c3c17ee06ae1053e9c47e.jpg"
+  },
+  "1073": {
+    "name": "X4: Foundations",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0ed0c3b78627e5cfb40f752d6efcae8c.jpg"
+  },
+  "1074": {
+    "name": "FIFA 23",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/9aad82da048b8a2df5c8e6690a60503b.jpg"
+  },
+  "1075": {
+    "name": "FIFA 23",
+    "platform": "10",
+    "icon": "https://cdn.saith.dev/6e7f31d937b1310cd7b3b6cf917726dd.jpg"
+  },
+  "1076": {
+    "name": "Raid Shadow Legends",
+    "platform": "Cloud Gaming",
+    "icon": "https://cdn.saith.dev/14b0c1a2bfd67a240a5794e73cd6e8c3.jpg"
+  },
+  "1077": {
+    "name": "UNCHARTED™: Legacy of Thieves Collection",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f3819035dbb2fdecbfcab9ef920c61ae.jpg"
+  },
+  "1078": {
+    "name": "Scorn",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c630c91f7eafee75c940461d8365ad24.jpg"
+  },
+  "1079": {
+    "name": "A Plague Tale: Requiem",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/809bab8544c6546101d38dec99f80e7a.jpg"
+  },
+  "1080": {
+    "name": "Hard West 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/48d68156f4a8893618363e584f9231c5.jpg"
+  },
+  "1081": {
+    "name": "Shatterline",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/43ab298320c220c9d329c48d6e653a84.jpg"
+  },
+  "1082": {
+    "name": "#KILLALLZOMBIES",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/bcc344ad88c9f497a3715ce4548adec6.jpg"
+  },
+  "1083": {
+    "name": "Teenage Mutant Ninja Turtles: TCC",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3907eacd144e6533af28f0fbbbe28153.jpg"
+  },
+  "1084": {
+    "name": "Tower of Fantasy",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3789557595539dba121560b3e2062f51.jpg"
+  },
+  "1085": {
+    "name": "Football Manager 2023",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/09cb86ccd005c7e294b8879cb7eddbeb.jpg"
+  },
+  "1087": {
+    "name": "Gotham Knights",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a5b7ba88ff26710201bfe9dfc07d99b4.jpg"
+  },
+  "1088": {
+    "name": "Persona 5 Royal",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/9eb10a0284dafdd9e12cdeeb3f1faaf5.jpg"
+  },
+  "1089": {
+    "name": "New Tales from the Borderlands",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/eecfd7debb74369cdcbb27994b607319.jpg"
+  },
+  "1090": {
+    "name": "World of Warcraft classic",
+    "platform": "Battle.net",
+    "icon": "https://cdn.saith.dev/71e15f4b232677324c5f5058c4754a65.jpg"
+  },
+  "1091": {
+    "name": "Scum",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e9a84f58f3c979b92af80f1bc1b73659.jpg"
+  },
+  "1092": {
+    "name": "Injustice 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f98d2ccc17d6a426242bf7771fec6799.jpg"
+  },
+  "1093": {
+    "name": "Medieval Dynasty",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/13e580ee466e9de461be82213d9ba505.jpg"
+  },
+  "1094": {
+    "name": "Steelrising",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/df7ced8c109f9ceba670c4fe7b13434e.jpg"
+  },
+  "1095": {
+    "name": "Gloomwood",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/b9252bafeb8f7cc3743754af1b664806.jpg"
+  },
+  "1096": {
+    "name": "Wartales",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f734cd7ff867f52280229c056359d6ec.jpg"
+  },
+  "1097": {
+    "name": "Victoria 3",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/db431feeab3505325247b1f69c511994.jpg"
+  },
+  "1098": {
+    "name": "SUPER PEOPLE 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e7c0ad8d8bfc3490472d494911ddd9d0.jpg"
+  },
+  "1099": {
+    "name": "Sonic Frontiers",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/2fb07964d16a33238211054b0ffd1cb0.jpg"
+  },
+  "1100": {
+    "name": "Thymesia",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/b598fd09e55505b284ae4ebcda74758d.jpg"
+  },
+  "1101": {
+    "name": "Cosmoteer: Starship Architect & Commander",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/73b6bf46c9bdda1eccedfc058d57109c.jpg"
+  },
+  "1103": {
+    "name": "Brotato",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0d24cb512be6a4117eab7fd95e216f71.jpg"
+  },
+  "1104": {
+    "name": "Golf With Your Friends",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c056470c9f58827a7814b3c020438637.jpg"
+  },
+  "1105": {
+    "name": "Warhammer: Vermintide 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f1851f5c12143ac2fe27f276c7f65bfc.jpg"
+  },
+  "1106": {
+    "name": "Soulstone Survivors",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/aea5cb0966e28182120fa75c6642ace8.jpg"
+  },
+  "1107": {
+    "name": "Slay the Spire",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3930bded2f5f3e3cb82e2417c817a1eb.jpg"
+  },
+  "1108": {
+    "name": "Farthest Frontier",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/2ec3ca6e6d9188f2c2655ba97b753395.jpg"
+  },
+  "1109": {
+    "name": "Green Hell",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/32796ef36659d15af604a4b04ea5047e.jpg"
+  },
+  "1110": {
+    "name": "Foxhole",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/1ea82cf2cc44a0fe986d7c86b78a657a.jpg"
+  },
+  "1114": {
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/13ebe82f02f1ba7a591f42d718c11de0.jpg"
+  },
+  "1115": {
+    "name": "Dark Pictures: The Devil in Me",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0d456f8016424e6234658630a66f9321.jpg"
+  },
+  "1116": {
+    "name": "Evil West",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/8506c8768ab76ea639652df46553d18c.jpg"
+  },
+  "1117": {
+    "name": "Oxygen Not Included",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/12b2b6f07b215eb574936f642213a6e9.jpg"
+  },
+  "1118": {
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/8d2ffde9f53911a2048442ea8d88acc7.jpg"
+  },
+  "1119": {
+    "name": "Evil Dead The Game",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/9781154105aaf12cee89bb40a89a5a0a.jpg"
+  },
+  "1120": {
+    "name": "Goat Simulator 3",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/27e8aa6b83daead1f5b3e712f1cd3056.jpg"
+  },
+  "1121": {
+    "name": "CoD Modern Warfare 2 + Warzone 2",
+    "platform": "Battle.net",
+    "icon": "https://cdn.saith.dev/608d2b84945b578075a6ec9283a0f3ee.jpg"
+  },
+  "1122": {
+    "name": "Warhammer 40,000: Darktide",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/951393ee7c0530d6b832c1e114510ce3.jpg"
+  },
+  "1123": {
+    "name": "The Callisto Protocol",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/cb139a74a8c9c6a8adbf7cd09fe903d0.jpg"
+  },
+  "1124": {
+    "name": "Need for Speed Unbound",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/cede581087c215910bab2f11b8a9d368.jpg"
+  },
+  "1125": {
+    "name": "Marvel's Midnight Suns",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/6ef8b019e98058f912acce1c47199561.jpg"
+  },
+  "1126": {
+    "name": "IXION",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/052acf36beea83c97a1c808fd62bef81.jpg"
+  },
+  "1127": {
+    "name": "Dwarf Fortress",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/7dc1dcd5292db36021e0a6f45aedd561.jpg"
+  },
+  "1128": {
+    "name": "High on Life",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/583791baef8cedef7d48218298307589.jpg"
+  },
+  "1129": {
+    "name": "Saints Row IV: Re-Elected",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/908dac2b9155177b031281ec60e4d0ac.jpg"
+  },
+  "1130": {
+    "name": "Goose Goose Duck",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/5e87aceabf9f678b4de65e3db7931bc7.jpg"
+  },
+  "1132": {
+    "name": "Across the Obelisk",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f9cf69c3c7ccc6bf7b5f4343f1697e0c.jpg"
+  },
+  "1133": {
+    "name": "PowerWash Simulator",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/9bb015d58f91fa37ce050b20a34dc5ba.jpg"
+  },
+  "1134": {
+    "name": "Overcooked 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/d6226702ec85b2752788328e28d41c7f.jpg"
+  },
+  "1135": {
+    "name": "Project: Playtime",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/acc1b95e262d2c422979254221d6b64d.jpg"
+  },
+  "1136": {
+    "name": "Crisis Core: Final Fantasy VII Reunion",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/cdf1c5e4d277a73860887c695508fb92.jpg"
+  },
+  "1137": {
+    "name": "Knights of Honor II: Sovereign",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/be24c7e4d3ef8e1c6cd4b93f001890c9.jpg"
+  },
+  "1138": {
+    "name": "The Witcher 3: Wild Hunt",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/bd6c096cfa487b8b6624a736f4d7efe2.jpg"
+  },
+  "1139": {
+    "name": "Sable",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/8e8d2a807b0e43a7abc0b24fc6e67773.jpg"
+  },
+  "1140": {
+    "name": "Death Stranding",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/be4134ff87ec115acce23b062ff633bc.jpg"
+  },
+  "1141": {
+    "name": "Death Stranding: Director's Cut",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/24b1423f68aa15072a83e51845676edb.jpg"
+  },
+  "1142": {
+    "name": "Paint the Town Red",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/01abeffa9afaa9d40bf930a18909c066.jpg"
+  },
+  "1143": {
+    "name": "Hydroneer",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a1b591769e7832df47b794da64fdd199.jpg"
+  },
+  "1144": {
+    "name": "Tiny Tina's Wonderlands",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/82c3509b8ddcfc738bdf95a8c29c4b98.jpg"
+  },
+  "1146": {
+    "name": "Choo-Choo Charles",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/d9da38dc53746d0bb5db29fc90310cf5.jpg"
+  },
+  "1147": {
+    "name": "Dorfromantik",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a37e81c67f75c064e121c68128a74faa.jpg"
+  },
+  "1148": {
+    "name": "Dyson Sphere Program",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/07055a4d866da9174692cdec043bd250.jpg"
+  },
+  "1149": {
+    "name": "F.I.S.T.: Forged In Shadow Torch",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/01be0f1248e42099d18a4d43f344e3c4.jpg"
+  },
+  "1152": {
+    "name": "b",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/7b8325d5bfea4f910191fecb63bfbaba.jpg"
+  },
+  "1153": {
+    "name": "b 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/1beb08a212702710a2ed0eba771eeeff.jpg"
+  },
+  "1154": {
+    "name": "u evade",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f7f15461554ad46b57b818389f57bb9c.jpg"
+  },
+  "1155": {
+    "name": "41 Hours",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/61063a9ce8fcd2a1d5d08afcf21e5655.jpg"
+  },
+  "1156": {
+    "name": "Speed Limit",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/1f622163fb6151b40a2f8ae99243f632.jpg"
+  },
+  "1157": {
+    "name": "Aim Lab",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/db0a203fe57b0bc60cdbf722fd45254c.jpg"
+  },
+  "1158": {
+    "name": "POLYGON",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/fafecf44ab502c9739cd6e3f90d638d3.jpg"
+  },
+  "1159": {
+    "name": "Idling to Rule the Gods",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/fce29597de345c9b3151ab516cd18b7a.jpg"
+  },
+  "1160": {
+    "name": "Thief Simulator",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/54c80c96ab5f94591e2507cd2f670385.jpg"
+  },
+  "1161": {
+    "name": "Dead Space",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f3725c4f12664ba296db6f91289d42fb.jpg"
+  },
+  "1162": {
+    "name": "Tap Ninja - Idle game",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c810febc6bc64b80668d7ff976613f36.jpg"
+  },
+  "1163": {
+    "name": "DDraceNetwork",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/5b7f24edf848a1264ac2e911939d55a7.jpg"
+  },
+  "1164": {
+    "name": "Eximius: Seize the Frontline",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/0fa2c7cdd4c3d52bd364bf27f1e0ca6f.jpg"
+  },
+  "1165": {
+    "name": "The Redress of Mira",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/744fa8aa1ac2aff56f6105d32c03783d.jpg"
+  },
+  "1166": {
+    "name": "Hogwarts Legacy",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/dba38d3221dde3d558a1230f54fee6e2.jpg"
+  },
+  "1167": {
+    "name": "Deliver Us Mars",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/993bd7f9113f27c794ae7da75f624c08.jpg"
+  },
+  "1168": {
+    "name": "Bloons TD Battles 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0211b94f7ba3c2e1406ab1c9463229d7.jpg"
+  },
+  "1169": {
+    "name": "AdventureQuest 3D",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/4890c354147f597cd90ff4ebf69c64b3.jpg"
+  },
+  "1170": {
+    "name": "Inside the Backrooms",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/c6f041e958ed30e87b0a8db8314295a8.jpg"
+  },
+  "1171": {
+    "name": "Hogwarts Legacy",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/7b053f7e131034fd20aab884c9c3911b.jpg"
+  },
+  "1172": {
+    "name": "WooLoop",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e4045df66d91bc305d2107653e4b37d4.jpg"
+  },
+  "1173": {
+    "name": "hexceed",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/afef8a8f4a72a60fe2891aa001c5d70b.jpg"
+  },
+  "1174": {
+    "name": "Coloring Pixels",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/7430f968307fb683eafb8d4c8757aae4.jpg"
+  },
+  "1175": {
+    "name": "Returnal™",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/d7146acfd898cb3705085897aff005a8.jpg"
+  },
+  "1176": {
+    "name": "Borderlands 3",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/5f805988b37c5b8695ee0d46ded52fff.jpg"
+  },
+  "1177": {
+    "name": "The Isle",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ddd9718b2dd1099cd4cc10298f0fcc4c.jpg"
+  },
+  "1178": {
+    "name": "SimRail - The Railway Simulator",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/4af924cbcfd92a62e99cde83e3a797f0.jpg"
+  },
+  "1179": {
+    "name": "Forspoken",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ce09bed9c522b9400f8e4a27a274556e.jpg"
+  },
+  "1180": {
+    "name": "Undisputed",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/b5b878b0fbf8231d9a8c212d1f2e2d5c.jpg"
+  },
+  "1181": {
+    "name": "Tactical Monsters Rumble Arena",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/5992bd4ca1d7bb4861c11610b4ff0815.jpg"
+  },
+  "1182": {
+    "name": "Unsolved Case",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/07a8eef2fdbc57706547f46e0a32ee7c.jpg"
+  },
+  "1183": {
+    "name": "Season: A letter to the future",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/83fc1c5f0d4e9c831583ec4dad00302d.jpg"
+  },
+  "1184": {
+    "name": "SCP: Secret Laboratory",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/20649b8f68196f99bdb994155d26cb4d.jpg"
+  },
+  "1185": {
+    "name": "Planet Zoo",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/b81b9488caad9bed822ac322155bbde2.jpg"
+  },
+  "1186": {
+    "name": "Like a Dragon: Ishin!",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/69f57fe0f301dfa93400f516514b4306.jpg"
+  },
+  "1187": {
+    "name": "Sons Of The Forest",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/113d16462a4d36c01038075c5abb33f5.jpg"
+  },
+  "1188": {
+    "name": "Company of Heroes 3",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/b316df2496d5ccf45525bfd22c9bf458.jpg"
+  },
+  "1189": {
+    "name": "OCTOPATH TRAVELER II",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/820378df816cc875933d6e9f7f08cf23.jpg"
+  },
+  "1190": {
+    "name": "Operation: Harsh Doorstop",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/22e09d77de9e3743342d6b6b68674677.jpg"
+  },
+  "1191": {
+    "name": "Wo Long: Fallen Dynasty",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/de05daffd8a93130cde0982455282343.jpg"
+  },
+  "1192": {
+    "name": "Last Epoch",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/040030f98cca57ba244847db80ec57cf.jpg"
+  },
+  "1193": {
+    "name": "The Planet Crafter",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/120766b96d1b4b5d2a83be6e10329140.jpg"
+  },
+  "1194": {
+    "name": "Devour",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3fef68608baff8b0045b09eff8f61fc3.jpg"
+  },
+  "1195": {
+    "name": "Contraband Police",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3cb1c01d257e971d2d4650aab0275784.jpg"
+  },
+  "1196": {
+    "name": "Season: A letter to the future",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/d385efe714790030a838f4983be12e15.jpg"
+  },
+  "1197": {
+    "name": "Phantom Brigade",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/02b2129c082d6d2318fb5cc7c45b19bf.jpg"
+  },
+  "1198": {
+    "name": "Dust & Neon",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/8a806760e35e2c2b7a6c2f79f2e7be80.jpg"
+  },
+  "1199": {
+    "name": "WWE 2K23",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a4cc7422d4c9784443fd66445ca6ea44.jpg"
+  },
+  "1200": {
+    "name": "Big Ambitions",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/54e44fa3eca46d18bf4f31ea19932a6a.jpg"
+  },
+  "1201": {
+    "name": "The Last Spell",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f13114408c8ea1280993fdc7d8a32755.jpg"
+  },
+  "1202": {
+    "name": "Lost Light",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/0051ebee8f66b8393a5a7e380010ea1e.jpg"
+  },
+  "1203": {
+    "name": "Resident Evil 4",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/179a397637671b108d77521c05cd8743.jpg"
+  },
+  "1204": {
+    "name": "Dragon Ball Xenoverse 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/87cf7deca5de46df1f667b2485c349be.jpg"
+  },
+  "1205": {
+    "name": "Have a Nice Death",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/07e12d733fe9ca51e70b151fd594b15c.jpg"
+  },
+  "1206": {
+    "name": "Tribes of Midgard",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/265931924f22577d80d005263c3ac4eb.jpg"
+  },
+  "1207": {
+    "name": "My Time At Portia",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/4ac03585f5d8d2c0864bddb98e333f44.jpg"
+  },
+  "1208": {
+    "name": "My Time at Sandrock",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/fc4197596d96fc6eda57972d323ce5ce.jpg"
+  },
+  "1209": {
+    "name": "Crime Boss: Rockay City",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/986aecaab027753ddec10dc3c3006850.jpg"
+  },
+  "1211": {
+    "name": "Asterix & Obelix XXL: Romastered",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/b537a88bef3c6f05fa1af05add9c85fd.jpg"
+  },
+  "1212": {
+    "name": "Asterix & Obelix XXL 2",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a90e952e9b942473b191d28f4d28c3fc.jpg"
+  },
+  "1213": {
+    "name": "Asterix & Obelix XXL 3 - The Crystal Menhir",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/1e8693f0ab080925d78cc3d02ee8fc63.jpg"
+  },
+  "1214": {
+    "name": "Asterix & Obelix XXXL : The Ram From Hibernia",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/519b5aa80a503352ddd27e42d9634e78.jpg"
+  },
+  "1215": {
+    "name": "Endling - Extinction is Forever",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/fa0453ce3cf5fdeff7355b11e21821fe.jpg"
+  },
+  "1216": {
+    "name": "Chicken Police - Paint it RED!",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/d46a59a99ff77d0d4a5d421b8a287fd6.jpg"
+  },
+  "1217": {
+    "name": "Neighbours back From Hell",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/63ef0cbc32bd0e89a58cf968a81d7843.jpg"
+  },
+  "1218": {
+    "name": "DREDGE",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/7f9415854f3304de7771edf615a43d1e.jpg"
+  },
+  "1219": {
+    "name": "Smalland: Survive the Wilds",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3b8f02f276d6ca1fc1e681cc7e68960f.jpg"
+  },
+  "1220": {
+    "name": "The Smurfs - Mission Vileaf",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f201fcfe5e573b6ae2da9791bbf39034.jpg"
+  },
+  "1221": {
+    "name": "Alfred Hitchcock - Vertigo",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/09f62aeec30f5b59a4e2053f4513f859.jpg"
+  },
+  "1222": {
+    "name": "Urban Trial Tricky™ Deluxe Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f0a4a24f9907c1ca3c81b42cf08b26fe.jpg"
+  },
+  "1223": {
+    "name": "Kao the Kangaroo",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a0b923a9a5e96928ff7280ef6e01ef35.jpg"
+  },
+  "1224": {
+    "name": "Crab Champions",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/32d78bfc212b1dfd5b4d40b39b963333.jpg"
+  },
+  "1225": {
+    "name": "Meet Your Maker",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a124e123d49de4b650e856e9e9cda8af.jpg"
+  },
+  "1226": {
+    "name": "Necesse",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/e269748aa7c526d089d3c309531f58c9.jpg"
+  },
+  "1227": {
+    "name": "Terra Nil",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/b3adf2490c65370c7adcf55b0f064cf6.jpg"
+  },
+  "1228": {
+    "name": "Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/01340e109cd2fab87a99b221629a0310.jpg"
+  },
+  "1229": {
+    "name": "Dying Light: Enhanced Edition",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/109c123317aa1f4c2dbb2c7d895bc6a5.jpg"
+  },
+  "1230": {
+    "name": "Townsmen - A Kingdom Rebuilt",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/1f95ee8f2075d2f81769238031b3a2d8.jpg"
+  },
+  "1231": {
+    "name": "El Hijo - A Wild West Tale",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/f3b38a90eb11ac1d5a7cefad43c9d9bf.jpg"
+  },
+  "1232": {
+    "name": "SCARF",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/3059e293eac8b9c13c17f75b5509f72f.jpg"
+  },
+  "1233": {
+    "name": "MORDHAU",
+    "platform": "Epic Games",
+    "icon": "https://cdn.saith.dev/1f216a3ce53be49195116feaa9202ccd.jpg"
+  },
+  "1234": {
+    "name": "Boundary",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/2c393679cff175826441e96bb5cff4ec.jpg"
+  },
+  "1235": {
+    "name": "Ravenswatch",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/5cb23c589ea36eb847ae4f71abc87be3.jpg"
+  },
+  "1236": {
+    "name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a6b85447b242b7611f85765c4228d26f.jpg"
+  },
+  "1243": {
+    "name": "Disciples II: Rise of the Elves",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/61715f17e5787734d975d36bd36b917c.jpg"
+  },
+  "1244": {
+    "name": "FlatOut 2™",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/b6034145570f957ff785d868497653e5.jpg"
+  },
+  "1245": {
+    "name": "FlatOut",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/56bfdef47b196c64b7af7df592285b48.jpg"
+  },
+  "1246": {
+    "name": "FlatOut 4: Total Insanity",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/ced12ac7383dd17bca26ed8be96a8460.jpg"
+  },
+  "1247": {
+    "name": "Disciples Sacred Lands Gold",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/5ba0d7426389d7523613a32891125590.jpg"
+  },
+  "1248": {
+    "name": "Age of Wonders 4",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/fae41630be4195b2bceed36dba836e98.jpg"
+  },
+  "1249": {
+    "name": "Blacksad: Under the Skin",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/81287f4dbd35291313f2d2f8283ab373.jpg"
+  },
+  "1250": {
+    "name": "Gear.Club Unlimited 2 - Ultimate Edition",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/8b3b27aae9c4e72c42a9835d7adc9b89.jpg"
+  },
+  "1251": {
+    "name": "Pile Up! Box by Box",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/b22e76cfa3adbde6238470fcd47c6cae.jpg"
+  },
+  "1252": {
+    "name": "Steel Rats™",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/8d94a00ae028ad80a01c97f25952010d.jpg"
+  },
+  "1255": {
+    "name": "Metal Mutation",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/a574c12a65a1da85c707fd5910181ef8.jpg"
+  },
+  "1256": {
+    "name": "The Last Case of Benedict Fox",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/cb28b20ba13de401680b6a56d2e5538b.jpg"
+  },
+  "1257": {
+    "name": "Voodolls",
+    "platform": "Steam",
+    "icon": "https://cdn.saith.dev/b587a9f8997f63e6ce5aebfd50924f81.jpg"
   }
 }
